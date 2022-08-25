@@ -32,7 +32,7 @@ chains:
     sign-mode: direct
   stride-testnet:
     key: wallet
-    chain-id: STRIDE-TESTNET-2
+    chain-id: STRIDE-TESTNET-4
     rpc-addr: http://127.0.0.1:26657      # !!use your own Strid GRPC endpoint here
     grpc-addr: http://127.0.0.1:26090     # !!use your own Strid GRPC endpoint here
     account-prefix: stride
